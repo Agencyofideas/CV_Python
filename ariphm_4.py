@@ -1,5 +1,4 @@
-import random
-import math
+import random, math
 a = int(random.random() * math.pi)
 b = int(random.random() * math.pi)
 c = (a + b)/2
